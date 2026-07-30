@@ -8,10 +8,10 @@
 
 ```systemverilog
 module firuz_farhodov ;
-    localparam ROLE       = "ASIC/FPGA Design Verification & RTL Engineering Intern" ;
-    localparam EDUCATION  = "University of Southern California (USC)" ;
-    localparam LOCATION   = "Los Angeles, CA" ;
-    localparam FOCUS      = "SystemVerilog, UVM, FPGA Acceleration & Digital Logic Design" ;
+    localparam ROLE       = "ASIC/FPGA Design Verification & RTL Engineering Intern";
+    localparam EDUCATION  = "University of Southern California (USC)";
+    localparam LOCATION   = "Los Angeles, CA";
+    localparam FOCUS      = "SystemVerilog, UVM, FPGA Acceleration & Digital Logic Design";
 
     initial begin
         $display("Verifying complex RTL designs & building high-performance digital logic.");
