@@ -26,7 +26,6 @@ endmodule
 * 🔬 I design and verify digital systems, focusing on ASIC/FPGA Design Verification (DV) and RTL architecture
 * 🛠️ Currently building an Asynchronous FIFO Memory Module in SystemVerilog — Gray code pointers, CDC synchronization, and constrained-random testbenches
 * 🏆 1st Place (out of 40 teams), EE 202 Design Project — custom PCB featuring a notch filter circuit
-* 💼 Seeking Summer 2027 ASIC Design Verification & RTL Design internship opportunities.
 * 📫 [farhodov@usc.edu](mailto:farhodov@usc.edu) | [LinkedIn](https://www.linkedin.com/in/firuz-farhodov/)
 
 ---
