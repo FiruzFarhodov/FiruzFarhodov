@@ -8,10 +8,10 @@
 
 ```systemverilog
 module firuz_farhodov ;
-    localparam ROLE       = "ASIC/FPGA Design Verification & RTL Engineering Intern";
+    localparam ROLE       = "ASIC Design Verification & RTL Engineering";
     localparam EDUCATION  = "University of Southern California (USC)";
     localparam LOCATION   = "Los Angeles, CA";
-    localparam FOCUS      = "SystemVerilog, UVM, FPGA Acceleration & Digital Logic Design";
+    localparam FOCUS      = "SystemVerilog, UVM and Digital Logic Design";
 
     initial begin
         $display("Verifying complex RTL designs & building high-performance digital logic.");
@@ -24,8 +24,9 @@ endmodule
 
 * 🎓 Junior studying Electrical & Computer Engineering at the University of Southern California (USC)
 * 🔬 I design and verify digital systems, focusing on ASIC/FPGA Design Verification (DV) and RTL architecture
-* 🛠️ Currently building an Asynchronous FIFO Memory Module in SystemVerilog — Gray code pointers, CDC synchronization, and constrained-random testbenches
-* 🏆 1st Place (out of 40 teams), EE 202 Design Project — custom PCB featuring a notch filter circuit
+* 🛠️ **Asynchronous FIFO Memory Module**: Designed and verified in SystemVerilog featuring Gray code pointer logic, dual-stage CDC synchronizers, and constrained-random testbenches.
+* 🛠️ **AMBA APB Slave Controller & UVM Testbench**: Built a full-featured UVM environment featuring configurable transaction sequences, active drivers/monitors, and scoreboard self-checking.
+* 🏆  1st Place, EE 202 PCB Design Challenge—Designed a custom audio-filter PCB, placing 1st out of 35 teams for optimal routing and minimal trace length.
 * 📫 [farhodov@usc.edu](mailto:farhodov@usc.edu) | [LinkedIn](https://www.linkedin.com/in/firuz-farhodov/)
 
 ---
